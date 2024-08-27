@@ -18,8 +18,6 @@ int main()
  return 0;
 }
 
-
-
 /*Output
 
 Enter the no of rows: 3
